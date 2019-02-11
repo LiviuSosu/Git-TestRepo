@@ -6,6 +6,6 @@ namespace ConsoleApp1
 {
     class Feature1
     {
-        //comment modified to cause conflict 
+        //comment 1.2
     }
 }
